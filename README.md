@@ -1,5 +1,5 @@
 # TCP
-Welcome to the GitHub repository for the article titled "Change Points Estimation based on the Multivariate Time Series Trend Detection with Applications to the Economic and Environment Data". This repository contains the codes that were used in the article to identify change points (TCPs) and perform simulations and examples.
+Welcome to the GitHub repository for the article titled "Change Points Estimation based on the Multivariate Time Series Trend Detection with Applications to the Economic and Environment Data". This repository contains the codes that were used in the article to identify trend change points (TCPs) and perform simulations and examples.
 
 The primary purpose of sharing these codes is to promote reproducibility and enable readers to utilize the algorithms and replicate the results presented in the article. The repository includes R codes that can be easily accessed and utilized.
 
